@@ -1,7 +1,7 @@
 package Java_apna_college.Stacks;
 
 import java.util.Stack;
-
+//recursion O(N)
 public class pushAtBottom {
 
     public static void pushatBot(Stack<Integer> s, int data){
