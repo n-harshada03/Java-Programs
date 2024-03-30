@@ -22,7 +22,7 @@ public class heap_sort {
         }
         
     }
-    public static void heapSort(int arr[]){
+    public static void heapSort(int arr[]){    // O(nlogn)
         // step1: create maxheap
         int n=arr.length;
         for(int i=n/2;i>=0;i--){
